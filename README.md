@@ -255,8 +255,6 @@ The Post Controller manages user-generated posts and interactions with those pos
 - **Like and Comment**: Interaction with posts, such as liking and commenting, is also managed through the Post Controller.
 
 ## 5. API Documentation
-# 12. API Documentation
-
 The "Social Waves" backend exposes a set of RESTful API endpoints that enable communication with the frontend and support various functionalities of the application. This section provides comprehensive documentation for the available API endpoints, including request methods, parameters, and response formats.
 
 ## API Endpoints
