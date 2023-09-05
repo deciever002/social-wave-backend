@@ -21,21 +21,10 @@ Project Live at: https://social-wave-backend-production.up.railway.app/
 5. [Controllers](#controllers)
    - [User Controller](#user-controller)
    - [Post Controller](#post-controller)
-6. [Models](#models)
-   - [User Model](#user-model)
-   - [Post Model](#post-model)
-7. [Routes](#routes)
-   - [User Routes](#user-routes)
-   - [Post Routes](#post-routes)
-8. [Database](#database)
-   - [Schema Design](#schema-design)
-   - [Database Operations](#database-operations)
-9. [Middleware](#middleware)
-    - [Custom Middleware](#custom-middleware)
-10. [API Documentation](#api-documentation)
+6. [API Documentation](#api-documentation)
     - [API Endpoints](#api-endpoints)
     - [Request and Response Examples](#request-and-response-examples)
-11. [Contributing](#contributing)
+7. [Contributing](#contributing)
     - [How to Contribute](#how-to-contribute)
     - [Coding Standards](#coding-standards)
 
@@ -254,7 +243,7 @@ The Post Controller manages user-generated posts and interactions with those pos
 
 - **Like and Comment**: Interaction with posts, such as liking and commenting, is also managed through the Post Controller.
 
-## 5. API Documentation
+## 6. API Documentation
 The "Social Waves" backend exposes a set of RESTful API endpoints that enable communication with the frontend and support various functionalities of the application. This section provides comprehensive documentation for the available API endpoints, including request methods, parameters, and response formats.
 
 ## API Endpoints
@@ -347,7 +336,7 @@ In case of errors, the API endpoints return appropriate HTTP status codes and er
 For detailed request and response examples for each endpoint, refer to the "Request and Response Examples" section in this documentation.
 
 
-## 6. Contributing
+## 7. Contributing
 
 "Social Waves" welcomes contributions from the developer community to help improve and enhance the backend of the application. Your contributions play a significant role in making the project better and more robust. This section outlines how you can contribute to the backend.
 
